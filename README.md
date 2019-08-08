@@ -6,7 +6,7 @@
 
 ### stack
 
-mobile - 박건우
+mobile
 
 - java (Android)
 
@@ -16,7 +16,7 @@ mobile - 박건우
 
 
 
-server - 이진영
+server - me
 
 - node.js / express
 
